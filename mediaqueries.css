@@ -1,0 +1,69 @@
+@media screen and (max-width: 2560px) and (min-width: 1450px) {
+    #logo {
+        height: 230px;
+        width: 370;
+    }
+
+    ul {
+        font-size: 50px;
+        padding-top: 70px;
+    }
+
+    #signup {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #sec1 {
+        width: 55%;
+    }
+
+    #sec2 {
+        width: 45%;
+    }
+
+    #heading {
+        font-size: 70px;
+    }
+
+    #orderfood {
+        font-size: 50px;
+    }
+
+    #searchbar {
+        width: 1000px;
+        height: 80px;
+    }
+
+    #findfood {
+        width: 200px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    input::placeholder {
+        font-size: 30px;
+    }
+    .cities{
+        font-size: 30px;
+    }
+    #sec3{
+        height: 600px;
+    }
+    .items{
+        height: 600px;
+        width: 500px;
+    }
+    #img1,#img2,#img3{
+        width: 40%;
+        height: 400px;
+    }
+    .item{
+        font-size: 40px;
+    }
+    .text{
+        font-size: 25px;
+    }
+}
